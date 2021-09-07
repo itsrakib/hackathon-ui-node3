@@ -1,0 +1,31 @@
+.riskHeadeer {
+    background: lavender;
+    width: 100%;
+    height: 100px;
+    align-content: center;
+    padding: 35px;
+}
+
+.modButton {   
+    float: right;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+    color: white;
+    outline: none;
+    background-color: blue;
+    
+}
+
+.modButton:hover {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  background-color: blueviolet;
+}
+
+.modButton:focus {
+    color: grey;    
+    outline: none;
+    background-color: rgb(23, 146, 184);
+}
+

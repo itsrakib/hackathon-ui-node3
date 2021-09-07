@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5cf85f3.chunk.css",
+    "main.js": "/static/js/main.5e08ddd7.chunk.js",
+    "main.js.map": "/static/js/main.5e08ddd7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0c186b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0c186b0.js.map",
+    "static/css/2.46b578d6.chunk.css": "/static/css/2.46b578d6.chunk.css",
+    "static/js/2.f7745361.chunk.js": "/static/js/2.f7745361.chunk.js",
+    "static/js/2.f7745361.chunk.js.map": "/static/js/2.f7745361.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c824a57a677ab0b35f2ddccfba65414b.js": "/precache-manifest.c824a57a677ab0b35f2ddccfba65414b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.46b578d6.chunk.css.map": "/static/css/2.46b578d6.chunk.css.map",
+    "static/css/main.b5cf85f3.chunk.css.map": "/static/css/main.b5cf85f3.chunk.css.map",
+    "static/js/2.f7745361.chunk.js.LICENSE.txt": "/static/js/2.f7745361.chunk.js.LICENSE.txt",
+    "static/media/account-type-icon.svg": "/static/media/account-type-icon.a8b899c9.svg",
+    "static/media/custom.css": "/static/media/white-add-icon.8925e00e.svg",
+    "static/media/bank-icon.svg": "/static/media/bank-icon.36e0ad0e.svg",
+    "static/media/country-icon.svg": "/static/media/country-icon.3a6d5d15.svg",
+    "static/media/login-graphic.svg": "/static/media/login-graphic.1bf4cd42.svg",
+    "static/media/manage-rules.svg": "/static/media/manage-rules.62c0dea8.svg",
+    "static/media/open-your-account-graphic.svg": "/static/media/open-your-account-graphic.3ad10247.svg",
+    "static/media/custom.responsive.css": "/static/media/username-icon.1d9e0fef.svg",
+    "static/media/process-orment-account-graphic.svg": "/static/media/process-orment-account-graphic.a613cbf2.svg",
+    "static/media/request-chequebook-graphic.svg": "/static/media/request-chequebook-graphic.692a584a.svg",
+    "static/media/rule-analysis.svg": "/static/media/rule-analysis.94cbe665.svg",
+    "static/media/rule-dashboard.svg": "/static/media/rule-dashboard.e02f8756.svg",
+    "static/media/rule-selection.svg": "/static/media/rule-selection.e7000066.svg",
+    "static/media/user-picture.svg": "/static/media/user-picture.a09e6389.svg",
+    "static/media/validate-your-credit-card-graphic.svg": "/static/media/validate-your-credit-card-graphic.71dde7ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c186b0.js",
+    "static/css/2.46b578d6.chunk.css",
+    "static/js/2.f7745361.chunk.js",
+    "static/css/main.b5cf85f3.chunk.css",
+    "static/js/main.5e08ddd7.chunk.js"
+  ]
+}

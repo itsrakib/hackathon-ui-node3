@@ -1,0 +1,33 @@
+.modal-body {
+  background-color : lavender;
+}
+.modal-header {
+    background-color : rgb(4, 63, 90);
+    color: white;
+  }
+
+  .modal-header > div {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+  }
+
+  h4 {
+    color: white;
+  }
+  .modal-footer {
+    background-color: rgb(217, 213, 223);
+  }
+
+.fieldCenter {
+    display: flex;
+    place-content: center;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.action-icon {
+  cursor: pointer;
+}
+

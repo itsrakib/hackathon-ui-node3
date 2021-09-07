@@ -1,0 +1,57 @@
+.myback {
+    background: green;
+    width: 50px;
+    height: 50px;
+}
+
+.card-line {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 4px #00000008;
+    border-radius: 8px;
+    padding: 5px;
+    transition: 0.3s; 
+    flex-direction: column; 
+    border: 1px solid grey;
+    max-width: 700px;
+} 
+
+.fieldCenter {
+    display: flex;
+    place-content: center;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+input[type=text]:focus , select {
+    border: 0px;
+    border:cornsilk;
+    background-color: rgb(197, 229, 235);
+    color: blue;
+    border-radius: 8px;
+  }
+
+input[type=text] , select {
+    border: 1px solid rgb(90, 210, 240);
+    border-radius: 5px;
+  }
+
+.manage-rules-img {
+    height: 100px;
+    width: 50%; 
+    float:left;
+    vertical-align: middle;
+}  
+
+h1 {
+padding: 5px;
+width: 40% ;
+vertical-align: middle; 
+text-align: left;
+color:blueviolet;
+}
+
+  .card-outer {
+      padding-top: 20px;
+  }
+
